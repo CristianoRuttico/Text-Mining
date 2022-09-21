@@ -1,2 +1,2 @@
 # Text-Mining
-Univesity project
+Univesity project: classification and clustering of IMDB dataset
